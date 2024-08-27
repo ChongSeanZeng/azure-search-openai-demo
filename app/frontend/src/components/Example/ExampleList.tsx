@@ -2,7 +2,7 @@ import { Example } from "./Example";
 
 import styles from "./Example.module.css";
 
-const DEFAULT_EXAMPLES: string[] = ["Who is the TIU Director?", "What happens in a Forest management certification?", "What does an FSC auditor do?"];
+const DEFAULT_EXAMPLES: string[] = ["What is FSC Trace?", "What happens in a Forest management certification?", "Can oil palm be certified against FSC FM?"];
 
 const GPT4V_EXAMPLES: string[] = [
     "Compare the difference of FM and COC certification.",
